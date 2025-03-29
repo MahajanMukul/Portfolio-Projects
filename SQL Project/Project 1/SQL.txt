@@ -1,0 +1,21 @@
+https://nextleap.app/online-compiler/sql-programming
+
+
+--DELETE FROM employees where manager is null;
+--select name, designation, min(salary) from employees;
+--Create Table Staff( id int(50), first_name VARCHAR(300), last_name VARCHAR(300), age integer(50), country VARCHAR(300));
+-- insert into staff (id,	first_name,	last_name,	age,	country) 
+    --Values ('1','Mukul','Mahajan','30','India'),
+    --('2',	'John',	'Doe',	'31', 'USA'),
+    --('3',	'David',	'Robinson',	'22',	'UK'),
+    --('4','Betty',	'Doe','28',	'UAE');
+--update staff set first_name='Shivam',	last_name='Yadav' where id=1;
+--insert into staff (id,	first_name,	last_name,	age,	country) 
+    --Values ('5','Mukul','Mahajan','31','India'), ('6','Dron','Bhatia','31','India');
+--Delete from staff where id='6';
+--Select sum(Salary), avg (Salary), COUNT(Salary), min(Salary), max(Salary) from employees;
+--Select * FROM staff where country LIKE '__d%';
+
+
+
+--select * from staff;

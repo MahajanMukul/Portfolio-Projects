@@ -1,0 +1,19 @@
+Employee_ID,Gender,Age,City,Country,Office,Education
+2209,Female,34,New Delhi,India,Branch,graduate
+2199,Male,50,New York,USA,HQ,Intermediate
+2211,Male,34,Toronto,Canada,Branch,High school
+2215,Male,55,New Delhi,India,Branch,graduate
+2214,Male,56,Toronto,Canada,Branch,Intermediate
+2207,Female,46,New York,USA,HQ,MBA
+2204,Female,40,New York,USA,HQ,PHd
+2201,Male,41,New York,USA,HQ,Intermediate
+2213,Male,24,Toronto,Canada,Branch,High school
+2200,Male,51,New Delhi,India,Branch,graduate
+2206,Female,30,New Delhi,India,Branch,Intermediate
+2210,Female,23,Toronto,Canada,Branch,MBA
+2202,Male,29,New York,USA,HQ,PHd
+2203,Female,31,Toronto,Canada,Branch,post graduate
+2205,Male,41,New Delhi,India,Branch,post graduate
+2208,Male,41,Toronto,Canada,Branch,MBA
+2212,Female,30,New Delhi,India,Branch,High school
+2198,Male,24,New York,USA,HQ,post graduate
